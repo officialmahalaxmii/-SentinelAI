@@ -1,0 +1,8 @@
+{
+  "name": "Remix: SentinelAI",
+  "description": "AI-driven detection of synthetic media, deepfake scripts, and phishing attacks in securities markets, combined with a digital communication authentication framework for retail investors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
